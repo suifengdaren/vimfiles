@@ -1,0 +1,1 @@
+getscript.vba: call delete('D:\Program Files\Vim\vimfiles/plugin/getscriptPlugin.vim')|call delete('D:\Program Files\Vim\vimfiles/autoload/getscript.vim')|call delete('D:\Program Files\Vim\vimfiles/GetLatest/GetLatestVimScripts.dist')|call delete('D:\Program Files\Vim\vimfiles/doc/pi_getscript.txt')

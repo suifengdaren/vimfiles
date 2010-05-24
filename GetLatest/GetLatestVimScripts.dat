@@ -1,7 +1,17 @@
 ScriptID SourceID Filename
 --------------------------
-642 0 getscript.vba.gz 
-1879 11894  AutoComplPop
-642 8136  getscript.vim
+642  0      getscript.vba.gz 
+642  8136   getscript.vim
 1502 11981  vimball.vim
 1234 12258  yankring.vim
+2981 12999  zencoding.vim
+1953 0      vimpress.tar.gz
+42   0      bufexplorer.zip
+1238 0      mark.vim
+521  0      mru.vim
+1658 0      NERD_tree.zip
+1218 0      NERD_commenter.zip
+2540 0      snipMate.zip
+1950 0      vimExplorer.vim
+1026 0      vimsualmark.vim
+1879 11894 :AutoInstall: AutoComplPop
